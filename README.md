@@ -6,7 +6,6 @@ I'm Layla, 19 y/o and from Germany. I use most time C# and JavaScript and i work
 
 - [Shop Sections](https://github.com/LaylaLeaks/ShopSections) a tracker that automatically posts new shop sections.
 - [Discord Package Explorer](https://github.com/LaylaLeaks/Discord-Package-Explorer) you can check there some stuff. (Not finished)
-- [WinterFox](https://github.com/LaylaLeaks/WinterFox) to extract xnb files for games like Celeste. (Working currently on it)
 
 ------
 
