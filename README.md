@@ -1,6 +1,6 @@
 ## Hii 👋
 
-I'm Layla, 19 y/o and from Germany. I use most time C# and JavaScript and i work on Fortnite / Valorant related projcts.
+I'm Layla, 20 y/o and from Germany. I use most time C# and JavaScript and i work on Fortnite / Valorant related projcts.
 
 ## Projects I have worked on
 
